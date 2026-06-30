@@ -10,5 +10,12 @@
     "customer": "@villo07",
     "duration": 99999,
     "expired": "13-04-2300 15:00:14 WIB"
+  },
+  "8517397497:AAE3R2pOuLcQD6eklCW46DTgOORyW_NJPqE": {
+    "license": "LIGHT-SECRET-PQ0F-LEL3",
+    "customer": "@Danziel7",
+    "duration": 100,
+    "expired": "08-10-2026 07:14:50 WIB",
+    "addedBy": 8155916749
   }
 }
