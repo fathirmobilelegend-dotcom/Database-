@@ -10,5 +10,12 @@
     "customer": "@villo07",
     "duration": 99999,
     "expired": "13-04-2300 15:00:14 WIB"
+  },
+  "8039655246:AAENa2s3bS98OfkiEVdAugRm-dRuyaN9ZuE": {
+    "license": "LIGHT-SECRET-BCVS-CHUV",
+    "customer": "@danziel7",
+    "duration": 100,
+    "expired": "08-10-2026 07:04:24 WIB",
+    "addedBy": 8155916749
   }
 }
